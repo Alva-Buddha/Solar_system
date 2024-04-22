@@ -1,0 +1,1 @@
+Includes textures for Sun and Space skybox from solarsystemscope.com (CC4.0 license)
